@@ -1,3 +1,5 @@
+// Trevor Lui, September 25,2001
+//Yes, double slashes make it so the line does not appear in the output.
 public class CommentsAndSlashes
 {
     public static void main( String[] args)
