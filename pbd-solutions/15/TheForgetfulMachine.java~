@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class TheForgetfulMachine {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        
+        System.out.print("Give me a word! ");
+        String word = input.next();
+        
+        System.out.print("Give me another word! ");
+        String word2 = input.next();
+        
+        System.out.print("Whats your favourite number? ");
+        int number = input.nextInt();
+        
+        System.out.print("Second favourite number? ");
+     cd   int number2 = input.nextInt();
+        
+        System.out.println("Wow that was pointless and fun!");}
+}
